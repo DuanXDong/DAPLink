@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[DAPLink-RoundHoles.TXT]
+   Generated File[DAPLink-SlotHoles.TXT]
+   Generated File[DAPLink.LDP]
+   Generated File[DAPLink.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 14:46:44 On 2021/9/18

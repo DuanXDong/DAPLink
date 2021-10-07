@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\DXD\Desktop\daplink\DAPLink_PCB\DAPLink_gerber\DAPLink.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=daplink-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=daplink-slotholes.txt|DrillLayers=gtl,gbl
